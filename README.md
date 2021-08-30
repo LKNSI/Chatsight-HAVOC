@@ -14,4 +14,6 @@ Moderation models suffer really badly on phrases like `i hate my black curtains`
 
 HAVOC is aiming to be a handcrafted adversarial dataset to be used against your moderation model. Our ecosystem does better when moderation performed by AI is not "tarnished" by consistently poor performers, and an inability or reluctance for designers to test these models for obscene content.
 
+The dataset aims to challenge the reasoning of moderation models in response to contextual word placements.
+
 
