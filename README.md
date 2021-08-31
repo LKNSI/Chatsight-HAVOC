@@ -1,5 +1,5 @@
 # Chatsight-HAVOC
-Having-Alternative-Views-On-Content (HAVOC). A WIP dataset to test the performance of moderation models, using obsense, racially charged language.
+Having-Alternative-Views-On-Content (HAVOC). A WIP dataset to test the performance of moderation models, using obscene, racially charged language.
 
 <hr/>
 
@@ -34,7 +34,7 @@ The test comes in two formats, CSV and JSONL (JSON Lines). Every entry is given 
 
 ### Structure - CSV
 
-The seperator is: `!##`
+The separator is: `!##`
 
 ( ground | sample | target_words | objective_type )
 
@@ -49,11 +49,15 @@ ground!##sample!##target_words!##objective_type
 #### ground
 
 `0` - Generally speaking, there isn't anything wrong with this entry. (Safe)  
-`1` - Generally speaking, there is problematic langauge or hateful langauge in this entry. (Not-Safe)
+`1` - Generally speaking, there is problematic language or hateful language in this entry. (Not-Safe)
+
+#### sample
+
+The sample. Lowercased, occasionally may contain limited grammar and punctuation.
 
 #### target_words
 
-A comma seperated list of tokens that are in particular use in the sample.
+A comma separated list of tokens that are in particular use in the sample.
 
 #### objective_type
 
