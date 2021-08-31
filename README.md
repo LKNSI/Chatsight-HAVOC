@@ -32,7 +32,7 @@ i hate when other gays hit on me
 
 The test comes in two formats, CSV and JSONL (JSON Lines). Every entry is given a binary, human-assigned label. 
 
-### Structure
+### Structure - CSV
 
 ```
 ground!##sample!##target_words!##objective_type
@@ -42,7 +42,7 @@ ground!##sample!##target_words!##objective_type
 
 ```
 
-#### CSV
+#### ground
 
 `0` - Generally speaking, there isn't anything wrong with this entry. (Safe)  
 `1` - Generally speaking, there is problematic langauge or hateful langauge in this entry. (Not-Safe)
@@ -56,6 +56,12 @@ The seperator is: `!##`
 1!##those immigrants are just utterly repulsive
 ```
 
-#### JSONL
+#### target_words
+
+A comma seperated list of tokens that are in particular use in the sample.
+
+#### objective_type
+
+
 
 \[Comming Soon\]
