@@ -34,15 +34,15 @@ The test comes in two formats, CSV and JSONL (JSON Lines + Coming Soon). Every e
 
 ### Structure - CSV
 
-The separator is: `!##`
+The separator is: `,`
 
 ( ground | sample | target_words | objective_type )
 
 ```
-ground!##sample!##target_words!##objective_type
+ground,sample,target_words,objective_type
 
-0!##such a wonderful day!##[nc]!h7
-0!##i hate those black flies!##black!##h1
+0,such a wonderful day,[nc]!h7
+0,i hate those black flies,black,h1
 
 ```
 
