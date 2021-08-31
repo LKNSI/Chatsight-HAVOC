@@ -61,4 +61,4 @@ A comma separated list of tokens that are in particular use in the sample.
 
 #### objective_type
 
-HAVOC follows an objective type methodology. You can select specific batteries from the test based on exactly what type of weakness you are aiming to detect and test against. See `objectiveTypes.md` for more information.
+HAVOC follows an objective type methodology. You can select specific batteries from the test based on exactly what type of weakness you are aiming to detect and test against. See [`objectiveTypes.md`](https://github.com/LKNSI/Chatsight-HAVOC/blob/main/objectiveTypes.md) for more information.
