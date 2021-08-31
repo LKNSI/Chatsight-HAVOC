@@ -30,7 +30,7 @@ i hate when other gays hit on me
 
 ## What's Included?
 
-The test comes in two formats, CSV and JSONL (JSON Lines). Every entry is given a binary, human-assigned label. 
+The test comes in two formats, CSV and JSONL (JSON Lines + Coming Soon). Every entry is given a binary, human-assigned label. 
 
 ### Structure - CSV
 
