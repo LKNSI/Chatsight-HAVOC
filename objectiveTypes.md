@@ -6,7 +6,7 @@ Havoc uses objective types to try make it easier to use specific rows of the dat
 
 `h1`
 
-Uses tokens that can expose a poorly fitted model for contextual embeddings related to colour of a persons skin, their racial identity - and literal colours.
+Uses tokens that can expose a poorly fitted model for contextual embeddings related to colour of a persons skin, their racial identity - and literal colours relating to inaminate objects, places or animals.
 
 <hr/>
 
@@ -43,3 +43,9 @@ Uses phrases and tokens that build support for positive and constructive languag
 `h6`
 
 Uses harmless language, but may still be unconstructive and rude (but not vulgar). "hated that idiotic video"
+
+<hr/>
+
+`h7`
+
+Uses completely harmless language.
