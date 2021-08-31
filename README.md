@@ -36,7 +36,7 @@ The test comes in two formats, CSV and JSONL (JSON Lines). Every entry is given 
 
 The seperator is: `!##`
 
-(ground sample target_words objective_type)
+( ground | sample | target_words | objective_type )
 
 ```
 ground!##sample!##target_words!##objective_type
