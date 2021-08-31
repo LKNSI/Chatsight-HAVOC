@@ -32,6 +32,16 @@ i hate when other gays hit on me
 
 The test comes in two formats, CSV and JSONL (JSON Lines). Every entry is given a binary, human-assigned label. 
 
+### Structure
+
+```
+ground!##sample!##target_words!##objective_type
+
+0!##such a wonderful day!##[nc]!h7
+0!##i hate those black flies!##black!##h1
+
+```
+
 #### CSV
 
 `0` - Generally speaking, there isn't anything wrong with this entry. (Safe)  
@@ -49,13 +59,3 @@ The seperator is: `!##`
 #### JSONL
 
 \[Comming Soon\]
-
-### Structure
-
-```
-ground!##sample!##target_words!##objective_type
-
-0!##such a wonderful day!##[nc]!h7
-0!##i hate those black flies!##black!##h1
-
-```
