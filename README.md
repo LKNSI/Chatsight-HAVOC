@@ -34,6 +34,8 @@ The test comes in two formats, CSV and JSONL (JSON Lines). Every entry is given 
 
 ### Structure - CSV
 
+The seperator is: `!##`
+
 ```
 ground!##sample!##target_words!##objective_type
 
@@ -47,21 +49,11 @@ ground!##sample!##target_words!##objective_type
 `0` - Generally speaking, there isn't anything wrong with this entry. (Safe)  
 `1` - Generally speaking, there is problematic langauge or hateful langauge in this entry. (Not-Safe)
 
-The seperator is: `!##`
-
-```
-0!##i hate my black curtains
-0!##that guys shirt was so black i could hardly see him at the traffic lights
-0!##i hate when other gays hit on me
-1!##those immigrants are just utterly repulsive
-```
-
 #### target_words
 
 A comma seperated list of tokens that are in particular use in the sample.
 
 #### objective_type
-
 
 
 \[Comming Soon\]
