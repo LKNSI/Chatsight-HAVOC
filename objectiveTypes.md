@@ -6,13 +6,13 @@ Havoc uses objective types to try make it easier to use specific rows of the dat
 
 `h1`
 
-Uses tokens that can expose a poorly fitted model for contextual embeddings related to colour of a persons skin, their racial identity - and literal colours relating to inaminate objects, places or animals.
+Uses tokens that can expose a poorly fitted model for contextual embeddings related to colour of a persons skin, their racial identity - and literal colours relating to inanimate objects, places or animals.
 
 <hr/>
 
 `h2`
 
-Uses tokens that reflective priviledge of a person who may be able to use them in a non-hateful or harmful way. "as a black american ... "/"as someone who's gay..."
+Uses tokens that reflective privilege of a person who may be able to use them in a non-hateful or harmful way. "as a black american ... "/"as someone who's gay..."
 
 <hr/>
 
@@ -30,7 +30,7 @@ Uses phrases and tokens that involve a person (A) speaking about a group of peop
 
 `h4-2`
 
-Uses phrases and tokens that involve a person (A) speaking about a group of people by their racial identity, in a concerned or pragamtic way. "he really is annoying my black friends"
+Uses phrases and tokens that involve a person (A) speaking about a group of people by their racial identity, in a concerned or pragmatic way. "he really is annoying my black friends"
 
 <hr/>
 
